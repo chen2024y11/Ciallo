@@ -35,3 +35,14 @@
 .cent a:hover {
     color: orange;
 }
+
+.two {
+    width: 400px;
+    height: 180px;
+    margin: auto;
+}
+
+.two img {
+    width: 400px;
+    height: 180px;
+}
