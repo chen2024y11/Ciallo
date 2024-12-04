@@ -3,17 +3,29 @@
     padding: 0;
 }
 
+.girl {
+    width: 300px;
+    height: 180px;
+    margin: auto;
+}
+
+.girl img {
+    width: 300px;
+    height: 180px;
+}
+
 .cent {
     margin: auto;
     margin-top: 150px;
     width: 500px;
-    height: 500px;
+    height: 100px;
     display: flex;
 }
 
 .cent a {
-    height: 500px;
     width: 500px;
+    height: 100px;
+    margin: auto;
     font-size: 50px;
     text-decoration: none;
     color: black;
